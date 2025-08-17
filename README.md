@@ -1,5 +1,3 @@
-# Task-5
- Exploratory Data Analysis (EDA)
 # Exploratory Data Analysis on Olympic Dataset
 
 ## Project Overview
